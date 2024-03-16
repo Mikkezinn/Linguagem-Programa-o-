@@ -1,0 +1,16 @@
+package aula02;
+
+public class exercicio2 {
+	public static void main (String [] args) {
+		
+		String nome = "Abiny";
+	    int idade = 18;
+	    int batimentoCardiaco = 220 - idade;
+	    
+	    System.out.println("O Nome da pessoa é " + nome + ", ele tem " + idade + ", o batimento cardiaco é " + batimentoCardiaco);
+		
+		
+		
+	}
+
+}
