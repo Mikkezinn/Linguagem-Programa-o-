@@ -1,7 +1,7 @@
 package Aula04;
 import java.util.Scanner;
 
-public class Desafio01 {
+public class Desafio01 { 
 	public static void main(String[] args) {
 		
 		Scanner scanner = new Scanner (System.in);
@@ -14,7 +14,7 @@ public class Desafio01 {
 		
 		if (idade >= 60 && bpm >= 150){
 			
-			System.out.println("Sua classificação é Urgencia");
+			System.out.println("SUA CLASSIFICAÇÃO É URGENTE");
 		} 
 		else if (idade >= 60 && bpm <= 150){
 			
